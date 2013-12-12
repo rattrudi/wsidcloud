@@ -1,0 +1,18 @@
+/*-----------------*/
+/* css anpassungen */
+/*-----------------*/
+/*-  10.12.2013   -*/
+/*-----------------*/
+
+.body {
+    font-family: sans-serif;
+	background-color: #fffcfe;
+}
+
+.page-header small {
+	color: #57b;
+}
+
+.container {
+	margin-top: 1em;
+}
